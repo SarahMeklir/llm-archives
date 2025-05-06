@@ -22,4 +22,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+It did very well! I don't see any errors, and the information it pulled was all relevant and important to the story. The story I chose had few individuals involved, but it pulled the name of the main subject of the story, the person interviewed, the writer, and the credited photographer. If the Banner had a collection of these across its archives, it would be able to use it as data to study and analyze. They could track the names featuring most commonly in their stories. They could easily see how many times they've asked one source for comment, and whether they need to diversify the voices in their stories. They could look at what locations their stories involve, and study patterns about why certain people or organizations are tied to each other. Also, since the data includes a description of each person, if a journalist was looking for a source who's an expert in a certain field, they could search this much more manageable story archive to find sources used in the past.
